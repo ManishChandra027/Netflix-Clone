@@ -11,10 +11,7 @@
   },
   "dependencies": {
     "firebase": "^11.10.0",
-<<<<<<< HEAD
     "firebase-tools": "^14.10.1",
-=======
->>>>>>> ddaa00803f6d105a8aa897056b3387f610438ba0
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-firebase-hooks": "^5.1.1",
